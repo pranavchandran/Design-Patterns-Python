@@ -10,4 +10,6 @@ Gamma Categorization
     Behavioral patterns
 
     Builder
+    Builder Facets
+    
     
