@@ -4,6 +4,9 @@ chapter 3 : LSP = #Liskov Substitution Principle
 chapter 4: ISP = #Interface Segregation Principle 
 chapter 5: DIP = #Dependency Inversion Principle
 
+chapter 6: Factory
+           Abstract_factory
+
 Gamma Categorization
     Creational patterns
     Structural Patterns
