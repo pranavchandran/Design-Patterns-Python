@@ -7,6 +7,8 @@ chapter 5: DIP = #Dependency Inversion Principle
 chapter 6: Factory
            Abstract_factory
 
+chapter 7: Prototype
+
 Gamma Categorization
     Creational patterns
     Structural Patterns
