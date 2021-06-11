@@ -8,6 +8,7 @@ chapter 6: Factory
            Abstract_factory
 
 chapter 7: Prototype
+           prototype factory
 
 Gamma Categorization
     Creational patterns
