@@ -18,4 +18,12 @@ Gamma Categorization
     Builder
     Builder Facets
     
+Section 5: SingleTon
+            Singleton allocator
+            Singleton decorator
+            Singleton Metaclass
+            Monostate
+            Singleton Testability
+
+            
     
