@@ -25,5 +25,5 @@ Section 5: SingleTon
             Monostate
             Singleton Testability
 
-            
+Section 6: Adapter
     
