@@ -26,4 +26,6 @@ Section 5: SingleTon
             Singleton Testability
 
 Section 6: Adapter
+
+Section 7: Bridge
     
